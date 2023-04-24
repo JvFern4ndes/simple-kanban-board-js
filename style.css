@@ -11,3 +11,15 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
+.board {
+  background: #141316;
+  border: 1px solid #FD951F11;
+  border-radius: 4px;
+}
+
+.board h3 {
+  padding: 16px;
+  margin: 0;
+  color: #FD951FCC;
+}
