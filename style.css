@@ -1,0 +1,13 @@
+html {
+  font-family: 'Nunito', sans-serif;
+}
+
+body {
+  background-color: #130F0D;
+  color: #FFF;
+}
+
+.boards {
+  display: flex;
+  justify-content: space-between;
+}
